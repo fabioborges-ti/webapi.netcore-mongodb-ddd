@@ -1,6 +1,6 @@
 # API - Cadastro Simplificado
 
-Nesse projeto, minha intenção é mostrar uma alternativa _bacana_ para criação de aplicações (desde as mais simples) com uma proposta de arquitetura limpa, orientada a domínio - **DDD**, com NetCore 5 e persistência em um banco de dados **NoSQL** (no caso MongoDb) e consultas baseadas no LINQ e LAMBDA e suas facilidades. 
+Nesse projeto, minha intenção é mostrar uma alternativa _bacana_ para criação de aplicações (desde as mais simples) com uma proposta de arquitetura limpa, orientada a domínio - **DDD**, com NetCore 5 e persistência em um banco de dados **NoSQL** (no caso MongoDb) e consultas baseadas no LINQ e LAMBDA e suas facilidades, o que facilitará e muito seu entendimento. 
 
 Trata-se de aplicação _bem_ simples, apenas para cadastro de restaurantes e suas avaliações. Nada além  disso! 😅 Contudo, você verá o uso de boas práticas de desenvolvimento e a utilização de alguns padrões de projeto. 
 
