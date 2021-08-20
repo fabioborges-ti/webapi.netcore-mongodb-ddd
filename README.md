@@ -1,4 +1,4 @@
-# API - Cadastro Simplificado
+### API - Cadastro Simplificado
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,13 +6,13 @@ Nesse projeto, minha intenção é mostrar uma alternativa _bacana_ para criaç�
 
 Trata-se de aplicação _bem_ simples, apenas para cadastro de restaurantes e suas avaliações. Nada além  disso! 😅 Contudo, você verá o uso de boas práticas de desenvolvimento e a utilização de alguns padrões de projeto. 
 
-## Para baixar:
+### Para baixar:
 
 > Clone repository:
 
 `https://github.com/fabioborges-ti/webapi.netcore-mongodb-ddd`
 
-## launchSettings.json
+### launchSettings.json
 
 Você já deve ter instalado previamente o **MongoDb** em sua máquina. Feito isso, altere as variáveis de conexão, citadas abaixo:
 
@@ -21,7 +21,7 @@ Você já deve ter instalado previamente o **MongoDb** em sua máquina. Feito is
 2. "DataBaseName": "<database>"
 ```
 
-## Documentação da API
+### Documentação da API
 
 Para acessar a documentação da API e seus recursos, acesse: 
 
@@ -30,7 +30,7 @@ https://localhost:5001/swagger/index.html
 ```
 
 
-## 📚 Para mais informações:
+### 📚 Para mais informações:
 
 Se você não conhece muito sobre este processo e quer mais detalhes, consulte em:
 
